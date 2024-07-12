@@ -1,1 +1,2 @@
 # Madhav-sales-E-commerce-Dashboard
+The Madhav Sales E-Commerce Dashboard is a comprehensive analytics tool designed to provide a clear, real-time overview of sales performance, customer behavior, and inventory status for e-commerce businesses. This dashboard leverages advanced data visualization techniques to transform raw data into actionable insights, facilitating informed decision-making and strategic plannin
